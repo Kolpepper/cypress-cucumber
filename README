@@ -7,5 +7,5 @@ Version:
 Nodejs - 16.17.0
 
 Run tests:
-cypress open: npm run cypress:execution
-cypress run: npm run cy:run
+cypress open: npm run cy:open
+cypress run: npm run cypress:execution 
