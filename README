@@ -1,0 +1,11 @@
+Test for cypress-cucumber-preprocessor
+
+Tests are placed in the cypress/e2e/
+Test cases are placed in the cypress/testcases/
+
+Version:
+Nodejs - 16.17.0
+
+Run tests:
+cypress open: npm run cy:open
+cypress run: npm run cy:run
